@@ -1,5 +1,5 @@
-# 2024 Neural ODE Forced Harmonic Oscillator
-This repo provides an example of how to construct a Neural Controlled Ordinary Differential Equation (NCODE) model for a simple 1D forced harmonic oscillator. 
+# 2024 Neural ODE Forced and Damped Harmonic Oscillator
+This repo provides an example of how to construct a Controlled Neural Ordinary Differential Equation (CNODE) model for a simple 1D forced harmonic oscillator. 
 
 The neural ODE is batch trained over all trajectories simultaneously. 
 
